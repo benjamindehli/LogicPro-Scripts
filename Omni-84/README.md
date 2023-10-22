@@ -2,7 +2,7 @@
 
 ## Strumplate
 
-### Parameters
+Parameters:
 
 - Strum speed
 - Lowest note
