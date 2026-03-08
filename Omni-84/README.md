@@ -2,10 +2,15 @@
 
 ## Strumplate
 
-Parameters:
+|![Omni-84 - Strumplate user interface](./Omni-84-Strumplate.png)|
+|:--:|
+|User Interface|
 
-- Strum speed
-- Lowest note
-- Highest note
-- Strum direction
-- Note order
+**Parameters:**
+
+- **Omni-84 Strumplate:**
+  - Strum speed
+  - Lowest note
+  - Highest note
+  - Strum direction
+  - Note order
